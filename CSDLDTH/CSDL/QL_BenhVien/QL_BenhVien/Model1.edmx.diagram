@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b5c45249f57049c1a8b6c867a5f5d862" Name="Diagram1" ZoomLevel="124">
+        <EntityTypeShape EntityType="HOSPITALDBModel.Admin" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HOSPITALDBModel.BacSi" Width="1.5" PointX="6" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="HOSPITALDBModel.BenhNhan" Width="1.5" PointX="3" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HOSPITALDBModel.CuocHen" Width="1.5" PointX="8.25" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HOSPITALDBModel.Nganh" Width="1.5" PointX="3.75" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HOSPITALDBModel.Role" Width="1.5" PointX="0.5" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HOSPITALDBModel.ThongBao" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <AssociationConnector Association="HOSPITALDBModel.FK_Admin_Role" ManuallyRouted="false" />
+        <AssociationConnector Association="HOSPITALDBModel.FK_ThongBao_Admin" ManuallyRouted="false" />
+        <AssociationConnector Association="HOSPITALDBModel.FK__BacSi__id_nganh__47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="HOSPITALDBModel.FK_BacSi_Role" ManuallyRouted="false" />
+        <AssociationConnector Association="HOSPITALDBModel.FK_CuocHen_BacSi" ManuallyRouted="false" />
+        <AssociationConnector Association="HOSPITALDBModel.FK_BenhNhan_Role" ManuallyRouted="false" />
+        <AssociationConnector Association="HOSPITALDBModel.FK_CuocHen_BenhNhan" ManuallyRouted="false" />
+        <AssociationConnector Association="HOSPITALDBModel.FK_CuocHen_Nganh" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

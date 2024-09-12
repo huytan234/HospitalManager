@@ -1,0 +1,143 @@
+E:\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.AssemblyReference.cache
+E:\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmBacSiDangNhap.resources
+E:\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChiTietBacSi.resources
+E:\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.Properties.Resources.resources
+E:\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.GenerateResource.cache
+E:\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.CoreCompileInputs.cache
+E:\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.exe.config
+E:\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.exe
+E:\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.pdb
+E:\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.exe
+E:\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.pdb
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.exe.config
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.exe
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.pdb
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.AssemblyReference.cache
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmAdminDangNhap.resources
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmBacSiDangNhap.resources
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChiTietBacSi.resources
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.Properties.Resources.resources
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.GenerateResource.cache
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.CoreCompileInputs.cache
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.exe
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.pdb
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChiTietAdmin.resources
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmQuanLyBacSi.resources
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmQuanLyBenhNhan.resources
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.dll
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.xml
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.CopyComplete
+C:\Users\TAN DAT\Desktop\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmTaoTKBacSi.resources
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.exe.config
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.exe
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.pdb
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.dll
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.xml
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.AssemblyReference.cache
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmAdminDangNhap.resources
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmBacSiDangNhap.resources
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChiTietAdmin.resources
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChiTietBacSi.resources
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmQuanLyBacSi.resources
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmQuanLyBenhNhan.resources
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmTaoTKBacSi.resources
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.Properties.Resources.resources
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.TrangChu.resources
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.GenerateResource.cache
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.CoreCompileInputs.cache
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.CopyComplete
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.exe
+D:\New folder\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.pdb
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.AssemblyReference.cache
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmAdminDangNhap.resources
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmBacSiDangNhap.resources
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChiTietAdmin.resources
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChiTietBacSi.resources
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmQuanLyBacSi.resources
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmQuanLyBenhNhan.resources
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmTaoTKBacSi.resources
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.Properties.Resources.resources
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.TrangChu.resources
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.GenerateResource.cache
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.CoreCompileInputs.cache
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.exe
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.pdb
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.exe.config
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.exe
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.pdb
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.dll
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.xml
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhV.619966F5.Up2Date
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmBenhNhanDangNhap.resources
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmBenhNhanDatLich.resources
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChinhSuaThongTinBenhNhan.resources
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChiTietBenhNhan.resources
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmDangKiBenhNhan.resources
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmThayDoiThongTinBacSi.resources
+D:\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmThongBao.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.AssemblyReference.cache
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmAdminDangNhap.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmBacSiDangNhap.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmBenhNhanDangNhap.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmBenhNhanDatLich.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChinhSuaThongTinBenhNhan.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChiTietAdmin.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChiTietBacSi.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChiTietBenhNhan.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmDangKiBenhNhan.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmQuanLyBacSi.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmQuanLyBenhNhan.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmTaoTKBacSi.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmThayDoiThongTinBacSi.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmThemThongBao.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmThongBao.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.Properties.Resources.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.TrangChu.resources
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.GenerateResource.cache
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.CoreCompileInputs.cache
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.exe
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.pdb
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.exe.config
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.exe
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.pdb
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.dll
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.xml
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TAN DAT\Desktop\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.CopyComplete
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.exe.config
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.exe
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\QL_BenhVien.pdb
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.dll
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.xml
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.AssemblyReference.cache
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmAdminDangNhap.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmBacSiDangNhap.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmBenhNhanDangNhap.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmBenhNhanDatLich.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChinhSuaThongTinBenhNhan.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChiTietAdmin.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChiTietBacSi.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmChiTietBenhNhan.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmDangKiBenhNhan.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmQuanLyBacSi.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmQuanLyBenhNhan.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmTaoTKBacSi.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmThayDoiThongTinBacSi.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmThemThongBao.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.FrmThongBao.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.Properties.Resources.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.TrangChu.resources
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.GenerateResource.cache
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.csproj.CoreCompileInputs.cache
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhV.619966F5.Up2Date
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.exe
+D:\CSDLDTH\CSDLDTH\CSDLDTH\CSDL\QL_BenhVien\QL_BenhVien\obj\Debug\QL_BenhVien.pdb
